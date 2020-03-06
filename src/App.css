@@ -11,7 +11,7 @@ body {
 }
 
 .bouncingToStop {
-    filter: blur(0.2px);
+    /* filter: blur(0.1px); */
     -webkit-filter: blur(0.2px);
     animation: bounce1 1s cubic-bezier(.5,.2,.8,.8) infinite alternate;
     -webkit-animation: bounce1 1s cubic-bezier(.5,.2,.8,.8) infinite alternate ;
