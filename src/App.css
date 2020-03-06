@@ -1,0 +1,49 @@
+body {
+    background: #bae1ff;
+}
+  
+/*把動畫效果寫在這個class上*/
+.bouncing {
+    filter: blur(0.2px);
+    -webkit-filter: blur(0.2px);
+    animation: bounce .2s cubic-bezier(.5,.2,.8,.8) infinite alternate;
+    -webkit-animation: bounce .2s cubic-bezier(.5,.2,.8,.8) infinite alternate ;
+}
+
+.bouncingToStop {
+    filter: blur(0.2px);
+    -webkit-filter: blur(0.2px);
+    animation: bounce1 1s cubic-bezier(.5,.2,.8,.8) infinite alternate;
+    -webkit-animation: bounce1 1s cubic-bezier(.5,.2,.8,.8) infinite alternate ;
+}
+
+@keyframes bounce {
+    0%   {
+        left: 0px; 
+        top: 0px;
+    }
+    75%  {
+        left: 0px; 
+        top: 300px;
+    }
+    100% {
+        left: 0px; 
+        top: 0px;
+    }
+} 
+
+@keyframes bounce1 {
+    0%   {
+        left: 0px; 
+        top: 0px;
+    }
+    75%  {
+        left: 0px; 
+        top: 100px;
+    }
+    100% {
+        left: 0px; 
+        top: 0px;
+    }
+} 
+  
