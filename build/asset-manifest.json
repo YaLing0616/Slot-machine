@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Slot-machine/static/css/main.51bf6686.chunk.css",
+    "main.css": "/Slot-machine/static/css/main.1ddec8f1.chunk.css",
     "main.js": "/Slot-machine/static/js/main.f86a2a9f.chunk.js",
     "main.js.map": "/Slot-machine/static/js/main.f86a2a9f.chunk.js.map",
     "runtime-main.js": "/Slot-machine/static/js/runtime-main.8ae04204.js",
@@ -8,9 +8,9 @@
     "static/js/2.afc366f6.chunk.js": "/Slot-machine/static/js/2.afc366f6.chunk.js",
     "static/js/2.afc366f6.chunk.js.map": "/Slot-machine/static/js/2.afc366f6.chunk.js.map",
     "index.html": "/Slot-machine/index.html",
-    "precache-manifest.c844ffeb0cc9e3ce61e9c263531cc035.js": "/Slot-machine/precache-manifest.c844ffeb0cc9e3ce61e9c263531cc035.js",
+    "precache-manifest.5276c0bcd1dccd4d4c866a555a7c2d8e.js": "/Slot-machine/precache-manifest.5276c0bcd1dccd4d4c866a555a7c2d8e.js",
     "service-worker.js": "/Slot-machine/service-worker.js",
-    "static/css/main.51bf6686.chunk.css.map": "/Slot-machine/static/css/main.51bf6686.chunk.css.map",
+    "static/css/main.1ddec8f1.chunk.css.map": "/Slot-machine/static/css/main.1ddec8f1.chunk.css.map",
     "static/js/2.afc366f6.chunk.js.LICENSE.txt": "/Slot-machine/static/js/2.afc366f6.chunk.js.LICENSE.txt",
     "static/media/pokemon (1).png": "/Slot-machine/static/media/pokemon (1).4b182b36.png",
     "static/media/pokemon (2).png": "/Slot-machine/static/media/pokemon (2).79de74d1.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.8ae04204.js",
     "static/js/2.afc366f6.chunk.js",
-    "static/css/main.51bf6686.chunk.css",
+    "static/css/main.1ddec8f1.chunk.css",
     "static/js/main.f86a2a9f.chunk.js"
   ]
 }
